@@ -8,6 +8,7 @@ class CircleciSpringTestApplicationTests {
 
     @Test
     void contextLoads() {
+        assert(true);
     }
 
 }
